@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Threads Of Life</title>
+    <link>https://blog.karanbalkar.com/categories/</link>
+    <description>Recent content in Categories on Threads Of Life</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Oct 2021 18:42:25 +0530</lastBuildDate><atom:link href="https://blog.karanbalkar.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Life</title>
+      <link>https://blog.karanbalkar.com/categories/life/</link>
+      <pubDate>Sat, 23 Oct 2021 18:42:25 +0530</pubDate>
+      
+      <guid>https://blog.karanbalkar.com/categories/life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Movie Reviews</title>
+      <link>https://blog.karanbalkar.com/categories/movie-reviews/</link>
+      <pubDate>Tue, 19 Oct 2021 21:03:10 +0530</pubDate>
+      
+      <guid>https://blog.karanbalkar.com/categories/movie-reviews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Travel</title>
+      <link>https://blog.karanbalkar.com/categories/travel/</link>
+      <pubDate>Wed, 23 Oct 2019 10:02:34 +0530</pubDate>
+      
+      <guid>https://blog.karanbalkar.com/categories/travel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Book Reviews</title>
+      <link>https://blog.karanbalkar.com/categories/book-reviews/</link>
+      <pubDate>Thu, 19 Oct 2017 20:50:21 +0530</pubDate>
+      
+      <guid>https://blog.karanbalkar.com/categories/book-reviews/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
